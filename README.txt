@@ -28,3 +28,4 @@ GitHub Pages:
 
 NOTE
 This is a static HTML/CSS/JavaScript site. No paid backend or hosting is required.
+Portfolio website deployment refresh.
